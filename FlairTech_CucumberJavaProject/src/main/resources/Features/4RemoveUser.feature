@@ -1,6 +1,6 @@
 Feature: Add SystemUsers 
 
-  Scenario Outline: Add users to system
+  Scenario: Add users to system
     Given Browser is open
     And User navigates to Opensource website
     And User inserts Admin and admin123
